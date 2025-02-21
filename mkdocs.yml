@@ -127,11 +127,11 @@ theme:
   # should be name: material
   language: en
   name: material
-  logo: img/code-savvy-logo.png
-  favicon: img/code-savvy-logo.png
+  logo: img/logo.png
+  favicon: img/favicon.ico
   palette:
-    primary: '#642580'
-    accent: '#41BAC1'
+    primary: 'purple'
+    accent: 'indigo'
   custom_dir: 'theme'
   include_sidebar: true
   features:
@@ -159,7 +159,10 @@ markdown_extensions:
       linenums: true
   - footnotes
   - codehilite
-
+extra_css:
+  - css/extra.css
+extra_javascript:
+  - js/extra.js
 extra:
   analytics:
     provider: google
