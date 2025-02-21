@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"fillcolor",
+			"linenums",
+			"microcontroller",
+			"micropython",
+			"numpy"
+		]
+	}
+}
