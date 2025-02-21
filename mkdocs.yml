@@ -62,7 +62,7 @@ nav:
     - prompts/26-systems-thinking.md
     - prompts/27-regression-line.md
     - advanced-topics/data-analysis.md
-  - Interactive Demos:
+  - MicroSims:
     - Intro: demos/index.md
     - JavaScript:
       - Journey Map: demos/js-graphics/journey-map.html
